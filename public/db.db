@@ -1,0 +1,6 @@
+CREATE TABLE cliente (
+	cpf varchar(11) PRIMARY KEY NOT NULL,
+	nome varchar(50) NOT NULL,
+	salario numeric(10,2) NOT NULL,
+    nasc date
+);

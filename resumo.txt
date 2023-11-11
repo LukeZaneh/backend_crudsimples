@@ -1,0 +1,7 @@
+Routes - chama controller
+    |
+controller - recebe os dados, valida os dados e retorna resposta, chamar services
+    |
+services - regras de negócio e chamar persistencia
+    |
+persistence - conexão e operações BD
